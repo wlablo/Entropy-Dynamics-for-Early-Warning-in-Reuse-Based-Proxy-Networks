@@ -41,7 +41,4 @@ For the full datasets, use one of these options:
 - `data/samples/ira/IRAhandle_tweets_3.csv` — first 1000 rows
 - `data/samples/brexit/tcat_brexit_train_sample.csv` — first 1000 data rows
 
-## Recommendation
 
-Upload this lightweight package to GitHub now.
-Keep the full raw datasets outside the main repository unless you use Git LFS or an external archival host.
